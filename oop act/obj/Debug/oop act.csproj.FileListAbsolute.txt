@@ -1,0 +1,11 @@
+C:\Users\Jc\source\repos\oop act\oop act\obj\Debug\oop act.csproj.AssemblyReference.cache
+C:\Users\Jc\source\repos\oop act\oop act\obj\Debug\oop act.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jc\source\repos\oop act\oop act\obj\Debug\oop_act.Form1.resources
+C:\Users\Jc\source\repos\oop act\oop act\obj\Debug\oop_act.Properties.Resources.resources
+C:\Users\Jc\source\repos\oop act\oop act\obj\Debug\oop act.csproj.GenerateResource.cache
+C:\Users\Jc\source\repos\oop act\oop act\obj\Debug\oop act.csproj.CoreCompileInputs.cache
+C:\Users\Jc\source\repos\oop act\oop act\bin\Debug\oop act.exe.config
+C:\Users\Jc\source\repos\oop act\oop act\bin\Debug\oop act.exe
+C:\Users\Jc\source\repos\oop act\oop act\bin\Debug\oop act.pdb
+C:\Users\Jc\source\repos\oop act\oop act\obj\Debug\oop act.exe
+C:\Users\Jc\source\repos\oop act\oop act\obj\Debug\oop act.pdb
